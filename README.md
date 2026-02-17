@@ -23,6 +23,6 @@ Salesforce consultant. Founder. Builder of things that work.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-bahjaoui/)
-[![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=safari&logoColor=white)](https://bilalbahjaoui.com)
+[![Website](https://img.shields.io/badge/Website-000?style=flat&logo=safari&logoColor=white)](https://bilalbahjaoui.com)
 [![Intervolut](https://img.shields.io/badge/Intervolut-5b3cc4?style=flat&logo=rocket&logoColor=white)](https://intervolut.com)
 [![Foxary](https://img.shields.io/badge/Foxary-1e8a8a?style=flat&logo=firefox&logoColor=white)](https://foxary.com)
