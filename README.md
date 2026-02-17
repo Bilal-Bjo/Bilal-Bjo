@@ -32,9 +32,3 @@
 | [SFORGS](https://github.com/Bilal-Bjo/SFORGS) | TUI for managing Salesforce orgs |
 | [BOOP](https://github.com/Bilal-Bjo/BOOP) | Auto-organizes your Downloads folder |
 | [text-set-compare](https://github.com/Bilal-Bjo/text-set-compare) | Diff text sets for Salesforce metadata |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Bjo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
