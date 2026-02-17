@@ -1,6 +1,6 @@
 # Bilal Bahjaoui
 
-Salesforce consultant. Founder. Builder of things that work.
+Salesforce consultant. Founder. Builder.
 
 ## What I'm building
 
