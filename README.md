@@ -8,6 +8,7 @@ Based in Brussels. I run [Foxary](https://www.foxary.com/) and work directly acr
 
 ## Selected work
 
+- **[Titan](https://jointitan.app/)** connects your own ChatGPT or Claude to track meals, build workouts and coach your training.
 - **[Foxary](https://www.foxary.com/)** turns operational problems into custom websites, e-commerce and practical AI.
 - **[Digivolut](https://digivolut.foxary.com/)** automates customer review collection and follow-up for independent businesses.
 - **[Intervolut](https://intervolut.com/)** runs real-time AI interviews that measure readiness before the client call.
